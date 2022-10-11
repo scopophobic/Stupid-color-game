@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.yo {
+  display: flex;
+  justify-content: center;
+}
+
+.clear {
+  height: 30px;
+  width: 100px;
+  background-color: aliceblue;
+}
+
+.square {
+  height: 150px;
+
+  width: 200px;
+  border: 10px solid black;
+  margin: 10px;
+}
+
+.square red {
+  background-color: red;
+}
